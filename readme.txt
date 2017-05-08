@@ -6,3 +6,4 @@ Creating a new branch is quick
 Creating a new line in master
 Creating a new branch is quick AND simple.
 test --no-ff dev branch commit
+bug fix issue-101
