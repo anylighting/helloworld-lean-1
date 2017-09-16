@@ -9,3 +9,4 @@ test --no-ff dev branch commit
 bug fix issue-101
 already execute git add
 just modify readme.txt, not execute git add
+add git test:
