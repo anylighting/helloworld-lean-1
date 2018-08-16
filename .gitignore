@@ -12,5 +12,9 @@
 
 # add comment at web page
 
+# dev simply add a comment
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# web add a comment at dev
